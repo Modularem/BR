@@ -1,0 +1,57 @@
+#: locale=es
+
+## Tour
+
+### Descripción
+tour.description = CASA RL
+
+### Título
+tour.name = Recorrido Casa RL
+
+## Skin
+
+### Botón
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448.label = PANORAMAS
+Button_1B999D00_16C4_0505_41AB_D0C2E7857448_mobile.label = PANORAMAS
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0.label = PLANTA
+Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = PLANTA
+
+### Texto Multilínea
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:5.14vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:5.140000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:5.14vh;font-family:'Bebas Neue Bold';">PLANTA:</SPAN></SPAN></DIV></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.260000000000009vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.26vh;font-family:'Bebas Neue Bold';">FLOORPLAN:</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.140000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.140000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.980000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.98vmin;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+
+### Etiqueta
+Label_0DD14F09_1744_0507_41AA_D8475423214A.text = CASA BR
+Label_0DD14F09_1744_0507_41AA_D8475423214A_mobile.text = CASA RL
+
+## Media
+
+### Título
+panorama_12B600A8_1941_081D_41A0_905EBDDAF0B9.label = Panorama_4
+panorama_12B602D2_1941_080D_41A5_6FD728FFA3D1.label = Panorama_16
+panorama_12B6072E_1941_0815_41B2_AAEFC1993263.label = Panorama_22
+panorama_12B6089E_1941_3835_417D_93DCBEEABEB1.label = Panorama_26
+panorama_12B60C30_1941_380D_417F_E9B54CA42A9E.label = Panorama_10
+panorama_12B60EDD_1941_1837_41B4_4F02354C5DCE.label = Panorama_12
+panorama_12B622F6_1941_09F2_41B1_5EE847D3B2B0.label = Panorama_9
+panorama_12B6336E_1941_0812_41B7_D3E4AA1F112A.label = Panorama_6
+panorama_12B63396_1941_0835_4174_1BB40EC1EAD9.label = Panorama_18
+panorama_12B635F0_1941_080D_41AB_BE1D7FB3777F.label = Panorama_3
+panorama_12B63FFD_1941_17F7_41B8_496607DAFB04.label = Panorama_23
+panorama_12B64A43_1941_1813_4192_416BB876336D.label = Panorama_5
+panorama_12B64A65_1941_1817_41B5_CDDFDB8E119C.label = Panorama_15
+panorama_12B64C07_1941_1812_41B1_704AE024BA41.label = Panorama_19
+panorama_12B65E22_1941_780D_41AC_B960907FD4F2.label = Panorama_21
+panorama_12B66541_1941_080E_4192_015406AF91DF.label = Panorama_20
+panorama_12B66975_1941_18F7_41B5_B8197BB52453.label = Panorama_8
+panorama_12B66F6D_1941_7817_41B8_E88D1C36DEA8.label = Panorama_7
+panorama_12B67B14_1941_3835_418A_9ADFE3A09EC6.label = Panorama_17
+panorama_12B6C849_1941_F81F_417B_A80C3B702964.label = Panorama_13
+panorama_12B6E177_1941_08F3_419C_028B464C3B25.label = Panorama_14
+panorama_12B6F5B5_1941_0876_41AA_F4055A093CFE.label = Panorama_11
+panorama_12B7E0E1_1941_080F_41A1_C6B179380F9B.label = Panorama_27
+panorama_12B7F1AB_1941_0813_41A4_DA77BB21BECE.label = Panorama_1
+panorama_12B9FB43_1941_1813_41A7_35BDC2B6545B.label = Panorama_2
+panorama_15CCC6EF_1943_0812_4197_48FF81408589.label = Panorama
