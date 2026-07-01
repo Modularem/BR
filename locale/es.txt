@@ -3,7 +3,7 @@
 ## Tour
 
 ### Descripción
-tour.description = CASA RL
+tour.description = CASA BR
 
 ### Título
 tour.name = Recorrido Casa BR
