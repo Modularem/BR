@@ -41,5 +41,5 @@
   }
  ],
  "theme_color": "#FFFFFF",
- "start_url": "index.htm"
+ "start_url": "index.htm?installed=true"
 }
