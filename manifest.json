@@ -1,6 +1,10 @@
 {
- "name": "Recorrido Casa BR",
  "background_color": "#FFFFFF",
+ "description": "CASA BR",
+ "display": "fullscreen",
+ "name": "Recorrido Casa BR",
+ "start_url": "index.htm?installed=true",
+ "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -37,9 +41,5 @@
    "sizes": "64x64",
    "src": "misc/icon64.png"
   }
- ],
- "start_url": "index.htm?installed=true",
- "theme_color": "#FFFFFF",
- "display": "fullscreen",
- "description": "CASA BR"
+ ]
 }

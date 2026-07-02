@@ -17,9 +17,9 @@ Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0.label = PLANTA
 Button_1B9A4D00_16C4_0505_4193_E0EA69B0CBB0_mobile.label = PLANTA
 
 ### Texto Multilínea
-HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.2600000000000104vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.26vh;font-family:'Bebas Neue Bold';">FLOORPLAN:</SPAN></SPAN></DIV></div>
+HTMLText_2F8A4686_0D4F_6B71_4183_10C1696E2923_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.26000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.26vh;font-family:'Bebas Neue Bold';">FLOORPLAN:</SPAN></SPAN></DIV></div>
 HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.140000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:5.14vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.140000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.14vh;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
-HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.980000000000004vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.98vmin;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
+HTMLText_3918BF37_0C06_E393_41A1_17CF0ADBAB12_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.980000000000005vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.98vmin;font-family:'Bebas Neue Bold';">Panorama list:</SPAN></SPAN></DIV></div>
 
 ### Etiqueta
 Label_0DD14F09_1744_0507_41AA_D8475423214A.text = CASA BR
@@ -28,47 +28,48 @@ Label_0DD14F09_1744_0507_41AA_D8475423214A_mobile.text = CASA BR
 ## Media
 
 ### Título
-panorama_084C49F1_1B2A_833F_41AC_2EAFE1B35192.label = Panorama_5
-panorama_085CDA9F_1B2D_81E3_41B5_018E189332E7.label = Panorama_4
 panorama_085D5754_1B15_8F65_41B8_0B7909CE3C6A.label = Panorama_14
-panorama_085F29B2_1B2B_833D_4134_97DAF025D038.label = Panorama_7
-panorama_085FCC73_1B2A_8123_41AF_73910E103ED0.label = Panorama_12
-panorama_08B4D9D7_1B15_8364_41B9_012F87FFD79A.label = Panorama_13
-panorama_08B4E552_1B2A_8362_41B1_6CE347B64011.label = Panorama_6
-panorama_094043A3_1B2F_8723_41B4_0D3C1B6FB9C2.label = Panorama_38
-panorama_09405C02_1B2F_80DD_41B0_CEF32E816E56.label = Panorama_39
 panorama_09412E6E_1B2E_8125_41B0_5E50DD648942.label = Panorama_29
 panorama_0C6992B1_1F2A_00C6_41B8_49707A24EE03.label = Panorama_42
 panorama_0D8C7465_1F2E_004F_41BB_CE4E7F97D103.label = Panorama_40
-panorama_0E18AC5C_1F6A_007D_41A6_D218611CF32B.label = Panorama_46
-panorama_0E213121_1F6A_01C7_41BB_652A64D2212E.label = Panorama_47
 panorama_0E28713C_1F6A_003D_41B4_D9762587620D.label = Panorama_45
 panorama_0E89432D_1F2E_01DF_41A0_82BDDE69DDA5.label = Panorama_41
-panorama_0EDAF00B_1B6D_80E2_41B4_7FA956BC49DB.label = Panorama_2
-panorama_0EDB51C0_1B2B_835D_4193_8B242FBEB020.label = Panorama_10
 panorama_0F0D7AAA_1F7A_00C5_41B6_1533DC154DA9.label = Panorama_15
-panorama_0F280B58_1F7E_0045_41B1_185F0AB3EA1B.label = Panorama_9
-panorama_0F2D1BA5_1F7E_00CF_41B0_811DFEE1EC80.label = Panorama_8
 panorama_0F462745_1B2E_8F67_41B0_4F4A893A704F.label = Panorama_27
 panorama_0F47A278_1F66_0045_41AE_56CB2E1AEAF4.label = Panorama_20
 panorama_0F6421D3_1F7A_004B_41B4_B458077CD294.label = Panorama_17
 panorama_0F6A60AB_1F7A_00DB_418E_18D105B8B7FA.label = Panorama_18
 panorama_0F6C3C09_1F7A_07C7_41A2_84D09BB7EF6A.label = Panorama_19
 panorama_0F747FB4_1F7A_00CD_41B9_2FDF8E0B99D4.label = Panorama_16
-panorama_0F7BA11A_1F7A_01C5_4190_B3DB6F1A0C9D.label = Panorama_11
 panorama_0F809E67_1F66_004B_41A4_3625BBFD2E1A.label = Panorama_32
 panorama_0F86F611_1F66_03C7_419B_E7C95E09E69B.label = Panorama_34
 panorama_0F8DECF5_1F66_004F_41B9_06118BEA08D3.label = Panorama_35
 panorama_0FA8B838_1F66_0FC5_41BD_A8DC6D84B30A.label = Panorama_33
 panorama_0FB9A4B8_1F66_00C5_41B7_B6DA506DE259.label = Panorama_27
 panorama_0FC653F1_1F66_0047_41BA_F9826F461324.label = Panorama_37
-panorama_0FC9728F_1F6A_00DB_41B2_FFD8037F64DB.label = Panorama_44
-panorama_0FD6E71B_1F66_01FB_4174_B17409744E23.label = Panorama_43
 panorama_0FF0E84B_1F66_005B_4192_AB852510359F.label = Panorama_36
-panorama_1041291E_1F7E_01FD_41A7_A3A5362BB2BC.label = Panorama_1
-panorama_10C6FB1E_1F7E_01FD_41BB_3A4950B935F9.label = Panorama
-panorama_10CB389A_1F7E_00C5_419C_B57F015E2D21.label = Panorama_3
 panorama_12B6072E_1941_0815_41B2_AAEFC1993263.label = Panorama_22
 panorama_12B6089E_1941_3835_417D_93DCBEEABEB1.label = Panorama_26
 panorama_12B63FFD_1941_17F7_41B8_496607DAFB04.label = Panorama_23
-panorama_12B65E22_1941_780D_41AC_B960907FD4F2.label = Panorama_21
+panorama_2C9DED60_20C3_E3C5_41C0_33B4F36BB9D1.label = Panorama_48
+panorama_2E10FC0F_20C3_A15B_41B3_881F536936C0.label = Panorama
+panorama_2E132257_20C3_61CB_41B5_A9C1DA1DD908.label = Panorama_1
+panorama_2E203547_20DC_A3CB_41B2_CC9ED8A9B1A5.label = Panorama_2
+panorama_2E23338F_20DC_A75B_41B8_30ECB6B2C155.label = Panorama_4
+panorama_2E2C4E31_20DF_E147_41C0_5E06870A5ED1.label = Panorama_5
+panorama_2E2D0576_20DF_63CD_41BF_13267840FD82.label = Panorama_6
+panorama_2E3DEA9D_20DD_617E_4199_309ABA515C94.label = Panorama_3
+panorama_2F064C87_20CD_A14B_41B3_91181E6B87C2.label = Panorama_47
+panorama_2F2F1840_20CD_A1C5_41B0_713B03476F57.label = Panorama_46
+panorama_2F45581E_20C3_617D_41AE_90D870306706.label = Panorama_39
+panorama_2F478733_20C4_EF4B_41B7_762313DAE348.label = Panorama_38
+panorama_2F6508DF_20C7_E2FB_4178_06C79058833C.label = Panorama_21
+panorama_2F6FBEF0_20C3_5EC5_41A5_9028C5C5A656.label = Panorama_43
+panorama_2F720C77_20CC_E1CB_41AE_F5C2AA06BC55.label = Panorama_44
+panorama_2F86044C_20C3_61DD_41BA_B58F67219E05.label = Panorama_11
+panorama_2F98C03F_20DC_A1BA_41B4_7456F61D3A37.label = Panorama_9
+panorama_2F9EBC96_20DD_A14D_4196_128668C883B6.label = Panorama_8
+panorama_2FA29AD0_20C5_A6C5_41BC_05EA73E616AE.label = Panorama_13
+panorama_2FA487F3_20C4_AECB_41BD_463E6E413140.label = Panorama_12
+panorama_2FEB05AD_20DD_635F_4132_357161636E1A.label = Panorama_7
+panorama_2FECEF90_20C3_DF45_41B3_B6AD9FBE0761.label = Panorama_10
